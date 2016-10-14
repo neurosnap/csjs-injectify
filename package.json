@@ -12,7 +12,7 @@
   "bugs": "https://github.com/rtsao/csjs-injectify/issues",
   "dependencies": {
     "acorn": "^2.4.0",
-    "csjs-inject": "^1.0.0",
+    "csjs-inject": "git://github.com/neurosnap/csjs-inject.git#e0f91f7",
     "falafel": "^1.2.0",
     "through2": "^2.0.0"
   },
